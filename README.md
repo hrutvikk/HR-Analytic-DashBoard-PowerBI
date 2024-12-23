@@ -45,8 +45,9 @@ This project equips **Atliq Technologies** with actionable insights to enhance H
 The company can implement targeted strategies to boost **employee satisfaction** and **retention efforts**.
 
 ## Preview
-![Project SS](![Dashboard_ss](https://github.com/user-attachments/assets/32404b59-91a0-4d38-83d2-553f4756f349)
-)
+![Dashboard_ss](https://github.com/user-attachments/assets/77cfa0f2-b408-41ef-8a9b-14d078ebe83e)
+
+
 
 ## Acknowledgments
 Special thanks to [**Codebasics**](https://www.codebasics.io/) for their guidance for this project’s development process.
