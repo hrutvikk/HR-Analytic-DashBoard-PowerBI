@@ -1,4 +1,4 @@
-# HR Analytics Project for Atliq Technologies
+# HR Analytics Project Using Microsoft Excel And Microsoft Power BI
 
 This repository contains an HR analytics project focused on analyzing employee attendance data from the past three months to provide actionable insights for **Atliq Technologies' HR Generalist**. Using data extraction, transformation, and visualization techniques, the project leverages **Power BI Desktop** to deliver meaningful insights.
 
